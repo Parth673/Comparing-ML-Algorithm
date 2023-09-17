@@ -13,4 +13,4 @@ fig = px.scatter_3d(iris, x = 'petal_length', y = 'sepal_length', z = 'sepal_wid
 st.plotly_chart(fig, use_container_width=True)
 
 
-#🏠_Ghar.py
+# 🏠_Ghar.py
